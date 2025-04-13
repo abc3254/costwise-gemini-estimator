@@ -40,11 +40,6 @@ const Index = () => {
                     </Link>
                   </Button>
                   
-                  <Button asChild variant="outline" size="lg">
-                    <Link to="/projects">
-                      View Projects
-                    </Link>
-                  </Button>
                 </div>
                 
                 <div className="flex flex-col sm:flex-row gap-4 pt-4">
